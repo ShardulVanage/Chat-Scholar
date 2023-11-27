@@ -216,7 +216,7 @@ export function SecondaryFeatures() {
       <Container>
         <div className="mx-auto max-w-4xl md:text-center">
           <h2 className="font-display text-5xl tracking-tight text-slate-900 sm:text-4xl">
-          Empowering Education with ChatScholar's <br/>AI-Powered Chatbots
+          Empowering Education with ChatScholars <br/>AI-Powered Chatbots
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
           ChatScholar stands at the forefront of AI-powered chatbot solutions, revolutionizing the education sector by enhancing student engagement, 
