@@ -110,7 +110,7 @@ export function Pricing() {
             for everyone.
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-          ChatScholar's flexible pricing plans make AI-powered chatbots accessible to everyone.
+          ChatScholars flexible pricing plans make AI-powered chatbots accessible to everyone.
           </p>
         </div>
         <div className="-mx-4 mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:-mx-8 lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
