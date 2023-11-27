@@ -6,48 +6,48 @@ import backgroundImage from '@/images/background-faqs.jpg'
 const faqs = [
   [
     {
-      question: 'Does TaxPal handle VAT?',
+      question: 'How does ChatScholar work?',
       answer:
-        'Well no, but if you move your company offshore you can probably ignore it.',
+        'ChatScholars AI-powered chatbots use natural language processing (NLP) to understand student inquiries and provide personalized responses. Our chatbots are integrated with existing student support systems and can access student data to provide tailored recommendations.',
     },
     {
-      question: 'Can I pay for my subscription via purchase order?',
+      question: 'What are ChatScholars core solutions?',
       answer: 'Absolutely, we are happy to take your money in all forms.',
     },
     {
-      question: 'How do I apply for a job at TaxPal?',
+      question: 'How much does ChatScholar cost?',
       answer:
-        'We only hire our customers, so subscribe for a minimum of 6 months and then let’s talk.',
+        'ChatScholars pricing plans are flexible and affordable for schools of all sizes. We offer a variety of pricing options to fit your institutions budget and needs.',
     },
   ],
   [
     {
-      question: 'What was that testimonial about tax fraud all about?',
+      question: 'How can I get started with ChatScholar?',
       answer:
-        'TaxPal is just a software application, ultimately your books are your responsibility.',
+        'Getting started with ChatScholar is easy. Simply contact our sales team for a free demo. We will work with you to understand your institutions needs and goals and develop a customized solution that meets your requirements.',
     },
     {
       question:
-        'TaxPal sounds horrible but why do I still feel compelled to purchase?',
+        'What kind of support does ChatScholar offer?',
       answer:
-        'This is the power of excellent visual design. You just can’t resist it, no matter how poorly it actually functions.',
+        'ChatScholar offers a comprehensive support package to ensure that you get the most out of your investment. Our team of experts is available to answer your questions and provide assistance with everything from setup to ongoing maintenance..',
     },
     {
       question:
-        'I found other companies called TaxPal, are you sure you can use this name?',
+        'What are the future plans for ChatScholar?        ',
       answer:
-        'Honestly not sure at all. We haven’t actually incorporated or anything, we just thought it sounded cool and made this website.',
+        'ChatScholar is committed to innovation and is constantly developing new features and solutions to help educational institutions transform the learning experience for all students. We are excited to continue to lead the way in AI-powered chatbots for education.',
     },
   ],
   [
     {
-      question: 'How do you generate reports?',
+      question: ' Can ChatScholar be integrated with my existing systems?',
       answer:
-        'You just tell us what data you need a report for, and we get our kids to create beautiful charts for you using only the finest crayons.',
+        'Yes, ChatScholar can be integrated with your existing student support systems, learning management systems, and other campus software. This allows us to provide a seamless and consistent experience for students across all their interactions with your institution.',
     },
     {
-      question: 'Can we expect more inventory features?',
-      answer: 'In life it’s really better to never expect anything at all.',
+      question: 'What is ChatScholars commitment to data privacy?',
+      answer: 'ChatScholar is committed to protecting the privacy of your students data. We only collect and use student data that is necessary to provide our services. We also use industry-leading security measures to protect your data from unauthorized access.',
     },
     {
       question: 'I lost my password, how do I get into my account?',

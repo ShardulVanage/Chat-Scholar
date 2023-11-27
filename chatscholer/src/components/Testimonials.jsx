@@ -11,7 +11,7 @@ const testimonials = [
   [
     {
       content:
-        'TaxPal is so easy to use I can’t help but wonder if it’s really doing the things the government expects me to do.',
+        ' "ChatScholar has been a game-changer for our student support services. Our AI chatbot provides 24/7 assistance to students, answering their questions promptly and accurately. It has also helped us streamline administrative tasks, freeing up our staff to focus on more high-value activities.',
       author: {
         name: 'Sheryl Berge',
         role: 'CEO at Lynch LLC',
@@ -20,7 +20,7 @@ const testimonials = [
     },
     {
       content:
-        'I’m trying to get a hold of someone in support, I’m in a lot of trouble right now and they are saying it has something to do with my books. Please get back to me right away.',
+        'ChatScholar has revolutionized the way we personalize the learning experience for our students. Our AI chatbot analyzes student data and preferences to provide tailored recommendations for courses, study resources, and career guidance. This personalized approach has led to a significant improvement in student engagement and academic outcomes.',
       author: {
         name: 'Amy Hahn',
         role: 'Director at Velocity Industries',
@@ -31,7 +31,7 @@ const testimonials = [
   [
     {
       content:
-        'The best part about TaxPal is every time I pay my employees, my bank balance doesn’t go down like it used to. Looking forward to spending this extra cash when I figure out why my card is being declined.',
+        'ChatScholar has become an invaluable tool for me in the classroom. Our AI chatbot provides real-time feedback to students on their assignments and progress. It also helps me identify students who may be struggling and need additional support. ChatScholar has made my teaching more effective and rewarding.',
       author: {
         name: 'Leland Kiehn',
         role: 'Founder of Kiehn and Sons',
@@ -40,7 +40,7 @@ const testimonials = [
     },
     {
       content:
-        'There are so many things I had to do with my old software that I just don’t do at all with TaxPal. Suspicious but I can’t say I don’t love it.',
+        'ChatScholar has been a great help to me during my college journey. Our AI chatbot has answered all of my questions about courses, enrollment, and campus life. It has also provided me with personalized recommendations for study resources and career guidance. ChatScholar has made me feel more supported and confident in my college experience',
       author: {
         name: 'Erin Powlowski',
         role: 'COO at Armstrong Inc',
@@ -51,7 +51,7 @@ const testimonials = [
   [
     {
       content:
-        'I used to have to remit tax to the EU and with TaxPal I somehow don’t have to do that anymore. Nervous to travel there now though.',
+        'ChatScholar has helped me improve my grades and stay on top of my assignments. Our AI chatbot provides me with personalized feedback on my work and helps me identify areas where I need to improve. It also reminds me of upcoming deadlines and helps me schedule my study time. ChatScholar has made me a more organized and successful student.',
       author: {
         name: 'Peter Renolds',
         role: 'Founder of West Inc',
@@ -60,7 +60,7 @@ const testimonials = [
     },
     {
       content:
-        'This is the fourth email I’ve sent to your support team. I am literally being held in jail for tax fraud. Please answer your damn emails, this is important.',
+        'I am so grateful for ChatScholar. Our AI chatbot has helped my son feel more connected to his school and his teachers. It has also helped him develop better study habits and improve his academic performance. ChatScholar has made a positive impact on my sons overall well-being and success.',
       author: {
         name: 'Amy Hahn',
         role: 'Director at Velocity Industries',
@@ -88,12 +88,10 @@ export function Testimonials() {
       <Container>
         <div className="mx-auto max-w-2xl md:text-center">
           <h2 className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
-            Loved by businesses worldwide.
+            Loved by students worldwide.
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-            Our software is so simple that people can’t help but fall in love
-            with it. Simplicity is easy when you just skip tons of
-            mission-critical features.
+          Positive Testimonials from satisfied educational institutions and students highlight the transformative impact of ChatScholar AI chatbots.
           </p>
         </div>
         <ul

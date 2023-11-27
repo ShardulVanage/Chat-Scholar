@@ -10,10 +10,10 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 
 const features = [
   {
-    name: 'Reporting',
-    summary: 'Stay on top of things with always up-to-date reporting features.',
+    name: 'AI-Bots',
+    summary: ' ChatScholar for Administrative Automation: Streamlined Efficiency for Growth',
     description:
-      'We talked about reporting in the section above but we needed three items here, so mentioning it one more time for posterity.',
+      'ChatScholar for Student Support provides round-the-clock personalized assistance, ensuring that students receive prompt and effective support whenever they need it. Our chatbot seamlessly integrates with existing student support systems, offering instant responses to inquiries, addressing enrollment procedures, and resolving technical issues. ',
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
@@ -44,11 +44,11 @@ const features = [
     },
   },
   {
-    name: 'Inventory',
+    name: 'Learning',
     summary:
-      'Never lose track of what’s in stock with accurate inventory tracking.',
+      'ChatScholar for Personalized Learning: Tailored Recommendations for Success',
     description:
-      'We don’t offer this as part of our software but that statement is inarguably true. Accurate inventory tracking would help you for sure.',
+      'ChatScholar for Personalized Learning goes beyond traditional support, acting as a personal learning companion for each student. Our intelligent chatbot analyzes individual student data, preferences, and learning styles to provide tailored recommendations for courses, study resources, and career guidance',
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
@@ -72,11 +72,11 @@ const features = [
     },
   },
   {
-    name: 'Contacts',
+    name: 'Student Support',
     summary:
-      'Organize all of your contacts, service providers, and invoices in one place.',
+      'ChatScholar for Student Support: 24/7 Personalized Assistance',
     description:
-      'This also isn’t actually a feature, it’s just some friendly advice. We definitely recommend that you do this, you’ll feel really organized and professional.',
+      'ChatScholar for Student Support provides round-the-clock personalized assistance, ensuring that students receive prompt and effective support whenever they need it. Our chatbot seamlessly integrates with existing student support systems, offering instant responses to inquiries, addressing enrollment procedures, and resolving technical issues.',
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
@@ -214,13 +214,13 @@ export function SecondaryFeatures() {
       className="pb-14 pt-20 sm:pb-20 sm:pt-32 lg:pb-32"
     >
       <Container>
-        <div className="mx-auto max-w-2xl md:text-center">
-          <h2 className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
-            Simplify everyday business tasks.
+        <div className="mx-auto max-w-4xl md:text-center">
+          <h2 className="font-display text-5xl tracking-tight text-slate-900 sm:text-4xl">
+          Empowering Education with ChatScholar's <br/>AI-Powered Chatbots
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-            Because you’d probably be a little confused if we suggested you
-            complicate your everyday business tasks instead.
+          ChatScholar stands at the forefront of AI-powered chatbot solutions, revolutionizing the education sector by enhancing student engagement, 
+          streamlining administrative tasks, and personalizing the learning experience.
           </p>
         </div>
         <FeaturesMobile />
